@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=TicTacToeGUI
+comment0.text=\r\n\ A\ class\ modelling\ a\ tic-tac-toe\ (noughts\ and\ crosses,\ Xs\ and\ Os)\ game\ in\ a\ very\r\n\ simple\ GUI\ window.\r\n\r\n\ @author\ JABER-UL\ HUDA\ 101137524\r\n\ @version\ March\ 28,\ 2022\r\n
+comment1.params=
+comment1.target=TicTacToeGUI()
+comment1.text=\ \r\n\ Constructs\ a\ new\ Tic-Tac-Toe\ board\ and\ sets\ up\ the\ basic\ GUI.\r\n\ \ \r\n
+comment10.params=x\ y\ z
+comment10.target=void\ oWins(int,\ int,\ int)
+comment2.params=ev
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\ \r\n\ This\ method\ reacts\ when\ a\ button\ is\ pressed\ \r\n\ \r\n\ @param\ ActionEvent\ ev\ takes\ in\ an\ action\ \r\n
+comment3.params=
+comment3.target=void\ firstTurn()
+comment4.params=
+comment4.target=void\ checkGameOver()
+comment5.params=
+comment5.target=void\ buttonAllDisable()
+comment6.params=
+comment6.target=void\ allGreen()
+comment7.params=
+comment7.target=void\ allNotGreen()
+comment8.params=
+comment8.target=void\ check()
+comment9.params=x\ y\ z
+comment9.target=void\ xWins(int,\ int,\ int)
+numComments=11
